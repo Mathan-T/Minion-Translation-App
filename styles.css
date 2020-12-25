@@ -45,6 +45,11 @@ body {
     margin-top: 2rem;
 }
 
+h2 {
+    text-align: center;
+    margin-bottom: -1rem;
+}
+
 textarea {
     width: 80%;
     height: 15vh;
